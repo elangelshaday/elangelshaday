@@ -1,6 +1,5 @@
 ![Alt text](/images/personal-banner.png)
 
-## Elangel Neilea Shaday
 A career in Information Technology, specifically in the areas of software engineering and mobile or web development, that will optimally utilize Object Oriented Programming as well as Java and Go programming language, UI/UX design skill, UI implement skill as well as Flutter, and data science programming as well as Python.
 
 I am currently a fresh graduate of informatics engineering at the Institut Teknologi Harapan Bangsa, Indonesia. I honed my skills in Informatics Engineering Major and gained hands-on experience in developing various projects. With a focus on web and mobile applications, I actively participated as a frontend developer, leveraging my expertise in creating visually appealing designs. My proficiency in this field has been widely acknowledged by fellow team members. Additionally, I have ventured into the realm of data analysis utilizing machine learning and deep learning techniques. This experience has allowed me to explore the vast potential of these technologies and apply them to real-world scenarios. 
