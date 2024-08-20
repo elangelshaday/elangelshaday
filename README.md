@@ -1,4 +1,4 @@
-### Hi there 👋
+![Alt text](/images/personal-banner.png)
 
 I'm Elangel, currently a fresh graduate of informatics engineering at the Institut Teknologi Harapan Bangsa, Indonesia.
 
