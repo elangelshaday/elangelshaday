@@ -5,7 +5,7 @@ A career in Information Technology, specifically in the areas of software engine
 I am currently a fresh graduate of Computer Science at the Institut Teknologi Harapan Bangsa, Indonesia. I honed my skills in Computer Science Major and gained hands-on experience in developing various projects. With a focus on web and mobile applications, I actively participated as a frontend developer, leveraging my expertise in creating visually appealing designs. My proficiency in this field has been widely acknowledged by fellow team members. Additionally, I have ventured into the realm of data analysis utilizing machine learning and deep learning techniques. This experience has allowed me to explore the vast potential of these technologies and apply them to real-world scenarios. 
 
 All of my projects that I have made over the last 5 years are available at 
-[https://elangelshaday.vercel.app/](elangelshaday)
+[elangelshaday](https://elangelshaday.vercel.app/)
 
 Furthermore, I was awarded GGB Scholarship for 8 semesters due to outstanding academic performance and spiritual, became a member of Colloseum Committee in MIT/MT Student Association (ACEES) ITHB (October 2019), became a Campus Ambassador of Institute Teknologi Harapan Bangsa (2020-2022), became a member  of External Division in Informatics Engineering Community (IEC) ITHB (2021-2022), and achieved TOEFL Practice Test with score 560 (June 2022).
 
