@@ -1,15 +1,17 @@
 ![Alt text](/images/personal-banner.png)
 
-A career in Information Technology, specifically in the areas of software engineering and mobile or web development, that will optimally utilize Object Oriented Programming as well as Java and Go programming language, UI/UX design skill, UI implement skill as well as Flutter, and data science programming as well as Python.
+Enthusiastic and fast learner individual with a career focus in Information Technology, specializing in Software Engineering and Data Science. Proficient in Object-Oriented Programming, with strong skills in Python, Go, and Flutter for building scalable applications and intuitive user interfaces. Experienced in UI/UX design and implementation, as well as analyzing and optimizing code for efficiency. Skilled in data analysis, machine learning, and end-to-end pipeline development, translating business requirements into impactful solutions. Strong in problem-solving, adaptability, and collaboration across technical and cross-functional teams.
 
-I am currently a fresh graduate of Computer Science at the Institut Teknologi Harapan Bangsa, Indonesia. I honed my skills in Computer Science Major and gained hands-on experience in developing various projects. With a focus on web and mobile applications, I actively participated as a frontend developer, leveraging my expertise in creating visually appealing designs. My proficiency in this field has been widely acknowledged by fellow team members. Additionally, I have ventured into the realm of data analysis utilizing machine learning and deep learning techniques. This experience has allowed me to explore the vast potential of these technologies and apply them to real-world scenarios. 
+I am currently a Software Engineer at Agung Sedayu Group, Indonesia. I honed my skills in Computer Science Major and gained hands-on experience in developing various projects. With a focus on web and mobile applications, I actively participated as a frontend developer, leveraging my expertise in creating visually appealing designs. My proficiency in this field has been widely acknowledged by fellow team members. Additionally, I have ventured into the realm of data analysis utilizing machine learning and deep learning techniques. This experience has allowed me to explore the vast potential of these technologies and apply them to real-world scenarios. 
 
 All of my projects that I have made over the last 5 years are available at 
 [elangelshaday](https://elangelshaday.vercel.app/)
+All of my published research papers are available at 
+[elangelshaday](https://elangelshaday-resume.vercel.app/)
 
 Furthermore, I was awarded GGB Scholarship for 8 semesters due to outstanding academic performance and spiritual, became a member of Colloseum Committee in MIT/MT Student Association (ACEES) ITHB (October 2019), became a Campus Ambassador of Institute Teknologi Harapan Bangsa (2020-2022), became a member  of External Division in Informatics Engineering Community (IEC) ITHB (2021-2022), and achieved TOEFL Practice Test with score 560 (June 2022).
 
-As a fresh graduate, I am eager to embark on new challenges and contribute my diverse skill set to further enhance the world of technology.
+As a Software Engineer and Data Scientist, I am eager to embark on new challenges and contribute my diverse skill set to further enhance the world of technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelsh_y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elangelshaday) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elangelneileashaday)
