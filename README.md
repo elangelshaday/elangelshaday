@@ -8,7 +8,7 @@ All of my projects that I have made over the last 5 years are available at [port
 
 Furthermore, I was awarded GGB Scholarship for 8 semesters due to outstanding academic performance and spiritual, became a member of Colloseum Committee in MIT/MT Student Association (ACEES) ITHB (October 2019), became a Campus Ambassador of Institute Teknologi Harapan Bangsa (2020-2022), became a member  of External Division in Informatics Engineering Community (IEC) ITHB (2021-2022), and achieved TOEFL Practice Test with score 560 (June 2022).
 
-As a Software Engineer and Data Scientist, I am eager to embark on new challenges and contribute my diverse skill set to further enhance the world of technology.
+As a Software Engineer, AI/ML Engineer, and Data Scientist, I am eager to embark on new challenges and contribute my diverse skill set to further enhance the world of technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelsh_y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elangelshaday) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elangelneileashaday)
